@@ -1,0 +1,14 @@
+name: datalab
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - ipykernel
+  - notebook
+  - nbterm
+  - matplotlib
+  - seaborn
+  - jupyterlab
+  - ipywidgets
+prefix: C:\Users\leona\.conda\envs\datalab
