@@ -1,0 +1,4 @@
+[core]
+    remote = almacen
+['remote "almacen"']
+    url = /tmp/dvc_storage
